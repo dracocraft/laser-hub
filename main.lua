@@ -1,5 +1,5 @@
 game.StarterGui:SetCore("SendNotification", {
-        Title = 'Injección';
+        Title = 'Executed';
                             Text = 'The script has ben executed!!!';
                             Icon = 'rbxassetid://10247590688';
                             Duration = 10;
